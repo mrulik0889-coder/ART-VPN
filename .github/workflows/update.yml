@@ -1,0 +1,37 @@
+name: Update VPN Servers
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Download servers
+        run: |
+          rm -f servers.txt
+          touch servers.txt
+          while read line
+          do
+            curl -L $line >> servers.txt
+            echo "" >> servers.txt
+          done < sources.txt
+
+      - name: Remove duplicates
+        run: |
+          sort servers.txt | uniq > temp.txt
+          mv temp.txt servers.txt
+
+      - name: Push update
+        run: |
+          git config --global user.name "ART VPN BOT"
+          git config --global user.email "bot@github.com"
+          git add servers.txt
+          git commit -m "Auto update servers"
+          git push
