@@ -13,3 +13,5 @@ vless://6668d6c2-379d-43cc-a024-c2dbbd2564ca@se.c2horizon.app:443?encryption=non
 vless://6668d6c2-379d-43cc-a024-c2dbbd2564ca@de2.c2horizon.app:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=de2.c2horizon.app&fp=qq&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4&type=tcp#🇩🇪%20Germany
 
 vless://6668d6c2-379d-43cc-a024-c2dbbd2564ca@lt.c2horizon.app:443?encryption=none&flow=xtls-rprx-vision&security=reality&type=tcp&sni=www.deepl.com&fp=qq&pbk=GZ5tU2JCAAnLV_smDVMSMTxvstCtTveHRqg9w_uXukc&sid=09#Lithuania
+
+vless://6668d6c2-379d-43cc-a024-c2dbbd2564ca@51.250.88.205:443?encryption=none&flow=xtls-rprx-vision&security=reality&type=tcp&sni=ads.x5.ru&fp=qq&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=d995792afeb193#LOCK-DOWN-Server2-LTE
