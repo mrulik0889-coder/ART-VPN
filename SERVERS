@@ -11,3 +11,5 @@ vless://a69a49c6-57d9-46d4-84ed-fbb539e69507@pl.karzino-connected.com:443?securi
 vless://6668d6c2-379d-43cc-a024-c2dbbd2564ca@se.c2horizon.app:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=se.c2horizon.app&fp=qq&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4&type=tcp#🇸🇪%20Sweden%20⚡
 
 vless://6668d6c2-379d-43cc-a024-c2dbbd2564ca@de2.c2horizon.app:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=de2.c2horizon.app&fp=qq&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4&type=tcp#🇩🇪%20Germany
+
+vless://6668d6c2-379d-43cc-a024-c2dbbd2564ca@lt.c2horizon.app:443?encryption=none&flow=xtls-rprx-vision&security=reality&type=tcp&sni=www.deepl.com&fp=qq&pbk=GZ5tU2JCAAnLV_smDVMSMTxvstCtTveHRqg9w_uXukc&sid=09#Lithuania
