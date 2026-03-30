@@ -15,3 +15,5 @@ vless://6668d6c2-379d-43cc-a024-c2dbbd2564ca@de2.c2horizon.app:443?encryption=no
 vless://6668d6c2-379d-43cc-a024-c2dbbd2564ca@lt.c2horizon.app:443?encryption=none&flow=xtls-rprx-vision&security=reality&type=tcp&sni=www.deepl.com&fp=qq&pbk=GZ5tU2JCAAnLV_smDVMSMTxvstCtTveHRqg9w_uXukc&sid=09#Lithuania
 
 vless://6668d6c2-379d-43cc-a024-c2dbbd2564ca@51.250.88.205:443?encryption=none&flow=xtls-rprx-vision&security=reality&type=tcp&sni=ads.x5.ru&fp=qq&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=d995792afeb193#LOCK-DOWN-Server2-LTE
+
+vless://2c600948-bccf-4fc8-9bf4-0efe6b8eb132@8rxn7wdh38.main.dagservers.ru:8443?type=grpc&security=reality&pbk=5a5SfSA_kI9aOIRBE62AIKlhsfKT-798D6r5Fc8SDFE&fp=chrome&sni=s3.ru-7.storage.selcloud.ru&sid=5765efad&serviceName=4985939520178503&mode=gun#⚡️⚡️DagestanVpn⬅️#1
