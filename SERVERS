@@ -18,3 +18,14 @@ vless://7fd2f977-b3d3-4173-842f-0fcd36c125d3@vbr3.fastfive.ru:443?mode=gun&secur
 
 vless://7fd2f977-b3d3-4173-842f-0fcd36c125d3@nld-tw-1.fastfive.ru:443?mode=multi&security=reality&encryption=none&authority=&pbk=e7mq264MWeQlbcsGFslTF-QoOeLeBSOayUc2uF2PXEo&fp=chrome&allowinsecure=0&type=grpc&serviceName=gotothe&sni=nld-tw-1.fastfive.ru&sid=7a842f6632b23114#%F0%9F%87%B3%F0%9F%87%B1+NLD+%5BID%3A+952217243%5D
 
+vless://389ae973-e4dd-47df-95b2-5b7ac2d38052@b1.raketa-balance.com:443?type=tcp&security=reality&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&fp=chrome&sni=b1.raketa-balance.com&sid=6c6082a2223c1d03&flow=xtls-rprx-vision#🔥Авто_быстрый
+
+vless://389ae973-e4dd-0001-95b2-5b7ac2d38052@tun.vk1.raketa-balance.com:443?type=tcp&security=reality&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&fp=edge&sni=ads.x5.ru&sid=6c6082a2223c1d03&flow=xtls-rprx-vision#⚠️LTE_обход_1
+
+vless://389ae973-e4dd-0004-95b2-5b7ac2d38052@tun.lte3.raketa-balance.com:443?type=tcp&security=reality&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&fp=edge&sni=ads.x5.ru&sid=6c6082a2223c1d03&flow=xtls-rprx-vision#⚠️LTE_обход_3
+
+vless://389ae973-e4dd-47df-95b2-5b7ac2d38052@b1.raketa-balance.com:443?type=tcp&security=reality&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&fp=chrome&sni=b1.raketa-balance.com&sid=6c6082a2223c1d03&flow=xtls-rprx-vision#🇳🇱Основной
+
+vless://389ae973-e4dd-47df-95b2-5b7ac2d38052@tun.proxy1.raketa-balance.com:443?type=tcp&security=reality&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&fp=chrome&sni=eh.vk.com&sid=6c6082a2223c1d03&flow=xtls-rprx-vision#🇳🇱Запасной
+
+vless://389ae973-e4dd-47df-95b2-5b7ac2d38052@de1.raketa-balance.com:443?type=tcp&security=reality&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&fp=chrome&sni=de1.raketa-balance.com&sid=6c6082a2223c1d03&flow=xtls-rprx-vision#🇩🇪Германия
