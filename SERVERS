@@ -1,59 +1,19 @@
-vless://6668d6c2-379d-43cc-a024-c2dbbd2564ca@de2.c2horizon.app:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=de2.c2horizon.app&fp=qq&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4#🇩🇪 Germany⚡
+vless://a69a49c6-57d9-46d4-84ed-fbb539e69507@us.karzino-connected.com:443?security=reality&encryption=none&pbk=v78yAb9eo19LuR0e08mB_cnAS-QLlvqRkEZoKs7q2mU&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=us.karzino-connected.com&sid=30e530274c0c72cc#%F0%9F%87%BA%F0%9F%87%B8+USA
 
-vless://6668d6c2-379d-43cc-a024-c2dbbd2564ca@nl.c2horizon.app:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=nl.c2horizon.app&fp=qq&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4#🇳🇱 Netherlands⚡
+vless://a69a49c6-57d9-46d4-84ed-fbb539e69507@kz.karzino-connected.com:443?security=reality&encryption=none&pbk=v78yAb9eo19LuR0e08mB_cnAS-QLlvqRkEZoKs7q2mU&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=kz.karzino-connected.com&sid=30e530274c0c72cc#%F0%9F%87%B0%F0%9F%87%BF+Kazakhstan
 
-vless://6668d6c2-379d-43cc-a024-c2dbbd2564ca@se.c2horizon.app:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=se.c2horizon.app&fp=qq&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4#🇸🇪 Sweden
+vless://a69a49c6-57d9-46d4-84ed-fbb539e69507@nl.karzino-connected.com:443?security=reality&encryption=none&pbk=v78yAb9eo19LuR0e08mB_cnAS-QLlvqRkEZoKs7q2mU&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=nl.karzino-connected.com&sid=30e530274c0c72cc#%F0%9F%87%B3%F0%9F%87%B1+Nederland
 
-vless://6668d6c2-379d-43cc-a024-c2dbbd2564ca@pl-01.c2horizon.app:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=pl-01.c2horizon.app&fp=edge&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4#🇵🇱 Poland
+vless://a69a49c6-57d9-46d4-84ed-fbb539e69507@ru.karzino-connected.com:443?security=reality&encryption=none&pbk=v78yAb9eo19LuR0e08mB_cnAS-QLlvqRkEZoKs7q2mU&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ru.karzino-connected.com&sid=30e530274c0c72cc#%F0%9F%87%B7%F0%9F%87%BA+Russia
 
-vless://6668d6c2-379d-43cc-a024-c2dbbd2564ca@fr.c2horizon.app:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=fr.c2horizon.app&fp=edge&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4#🇫🇷 France
+vless://a69a49c6-57d9-46d4-84ed-fbb539e69507@pl.karzino-connected.com:443?security=reality&encryption=none&pbk=v78yAb9eo19LuR0e08mB_cnAS-QLlvqRkEZoKs7q2mU&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=pl.karzino-connected.com&sid=30e530274c0c72cc#%F0%9F%87%B5%F0%9F%87%B1+Poland
 
-vless://6668d6c2-379d-43cc-a024-c2dbbd2564ca@us2.c2horizon.app:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=us2.c2horizon.app&fp=qq&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4#🇺🇸 USA
+vless://6668d6c2-379d-43cc-a024-c2dbbd2564ca@se.c2horizon.app:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=se.c2horizon.app&fp=qq&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4&type=tcp#🇸🇪%20Sweden%20⚡
 
-vless://6668d6c2-379d-43cc-a024-c2dbbd2564ca@at.c2horizon.app:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=at.c2horizon.app&fp=qq&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4#🇦🇹 Austria
+vless://6668d6c2-379d-43cc-a024-c2dbbd2564ca@de2.c2horizon.app:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=de2.c2horizon.app&fp=qq&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4&type=tcp#🇩🇪%20Germany
 
-vless://6668d6c2-379d-43cc-a024-c2dbbd2564ca@iq.c2horizon.app:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=iq.c2horizon.app&fp=qq&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4#🇮🇶 Iraq
+vless://6668d6c2-379d-43cc-a024-c2dbbd2564ca@lt.c2horizon.app:443?encryption=none&flow=xtls-rprx-vision&security=reality&type=tcp&sni=www.deepl.com&fp=qq&pbk=GZ5tU2JCAAnLV_smDVMSMTxvstCtTveHRqg9w_uXukc&sid=09#Lithuania
 
-vless://6668d6c2-379d-43cc-a024-c2dbbd2564ca@il2.c2horizon.app:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=il2.c2horizon.app&fp=qq&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4#🇮🇱 Israel
+vless://6668d6c2-379d-43cc-a024-c2dbbd2564ca@51.250.88.205:443?encryption=none&flow=xtls-rprx-vision&security=reality&type=tcp&sni=ads.x5.ru&fp=qq&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=d995792afeb193#LOCK-DOWN-Server2-LTE
 
-vless://6668d6c2-379d-43cc-a024-c2dbbd2564ca@in.c2horizon.app:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=in.c2horizon.app&fp=qq&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4#🇮🇳 India
-
-vless://6668d6c2-379d-43cc-a024-c2dbbd2564ca@tr.c2horizon.app:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=tr.c2horizon.app&fp=qq&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4#🇹🇷 Turkey
-
-vless://6668d6c2-379d-43cc-a024-c2dbbd2564ca@158.160.150.233:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=chrome&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=cf4d#🚀 AUTO MAIN
-
-vless://6668d6c2-379d-43cc-a024-c2dbbd2564ca@yabs.c2horizon.app:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=yabs.c2horizon.app&fp=qq&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4#🇸🇪 WHITE Sweden
-
-vless://4249933f-c906-453c-af41-47939ed10bac@45.15.128.104:443?type=tcp&security=reality&pbk=H2W1qvM0nUovlPadYco7_EWiZ_psfcLxOPJwOs3BDXU&fp=chrome&sni=ign.com&sid=fe2e437f64f2da7a&spx=/&flow=xtls-rprx-vision#🇳🇱 NL
-
-vless://4249933f-c906-453c-af41-47939ed10bac@153.76.122.57:443?type=tcp&security=reality&pbk=H2W1qvM0nUovlPadYco7_EWiZ_psfcLxOPJwOs3BDXU&fp=chrome&sni=ign.com&sid=fe2e437f64f2da7a&spx=/&flow=xtls-rprx-vision#🇳🇴 NO
-
-vless://4249933f-c906-453c-af41-47939ed10bac@153.76.122.92:443?type=tcp&security=reality&pbk=H2W1qvM0nUovlPadYco7_EWiZ_psfcLxOPJwOs3BDXU&fp=chrome&sni=ign.com&sid=fe2e437f64f2da7a&spx=/&flow=xtls-rprx-vision#🇮🇹 IT
-
-vless://4249933f-c906-453c-af41-47939ed10bac@194.124.250.49:443?type=tcp&security=reality&pbk=H2W1qvM0nUovlPadYco7_EWiZ_psfcLxOPJwOs3BDXU&fp=chrome&sni=ign.com&sid=fe2e437f64f2da7a&spx=/&flow=xtls-rprx-vision#🇦🇹 AT
-
-vless://4249933f-c906-453c-af41-47939ed10bac@130.49.218.85:443?type=tcp&security=reality&pbk=H2W1qvM0nUovlPadYco7_EWiZ_psfcLxOPJwOs3BDXU&fp=chrome&sni=ign.com&sid=fe2e437f64f2da7a&spx=/&flow=xtls-rprx-vision#🇫🇷 FR
-
-vless://4249933f-c906-453c-af41-47939ed10bac@45.66.163.115:443?type=tcp&security=reality&pbk=H2W1qvM0nUovlPadYco7_EWiZ_psfcLxOPJwOs3BDXU&fp=chrome&sni=ign.com&sid=fe2e437f64f2da7a&spx=/&flow=xtls-rprx-vision#🇫🇮 FI
-
-vless://4249933f-c906-453c-af41-47939ed10bac@95.85.253.217:443?type=tcp&security=reality&pbk=H2W1qvM0nUovlPadYco7_EWiZ_psfcLxOPJwOs3BDXU&fp=chrome&sni=ign.com&sid=fe2e437f64f2da7a&spx=/&flow=xtls-rprx-vision#🇵🇱 PL
-
-vless://4249933f-c906-453c-af41-47939ed10bac@194.76.154.36:443?type=tcp&security=reality&pbk=H2W1qvM0nUovlPadYco7_EWiZ_psfcLxOPJwOs3BDXU&fp=chrome&sni=ign.com&sid=fe2e437f64f2da7a&spx=/&flow=xtls-rprx-vision#🇨🇾 CY
-
-vless://4249933f-c906-453c-af41-47939ed10bac@45.136.124.116:443?type=tcp&security=reality&pbk=H2W1qvM0nUovlPadYco7_EWiZ_psfcLxOPJwOs3BDXU&fp=chrome&sni=ign.com&sid=fe2e437f64f2da7a&spx=/&flow=xtls-rprx-vision#🇬🇪 GE
-
-vless://4249933f-c906-453c-af41-47939ed10bac@103.35.188.74:443?type=tcp&security=reality&pbk=H2W1qvM0nUovlPadYco7_EWiZ_psfcLxOPJwOs3BDXU&fp=chrome&sni=ign.com&sid=fe2e437f64f2da7a&spx=/&flow=xtls-rprx-vision#🇺🇸 US
-
-vless://3dd21078-6c33-4190-b989-d2378cef25d9@144.124.246.64:8443?security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&fp=chrome&pbk=mK1L2iaVH0yS-HiBroKryxq1eEeHspUyFFZTknYLq2Y&sid=a6b422406510#NL-2
-
-vless://3dd21078-6c33-4190-b989-d2378cef25d9@144.124.239.211:8443?security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&fp=chrome&pbk=MmCkkGxrz8TivudvIwQ9_VSTzZcTAyZEkvRnxbFZywk&sid=f040b4#NL-3
-
-vless://3dd21078-6c33-4190-b989-d2378cef25d9@144.124.233.103:8443?security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&fp=chrome&pbk=LX5_NehDidYIMDPvmBPojbWvJ7XHCSRnzleDEgmSWjY&sid=2cafdf81#NL-4
-
-vless://3dd21078-6c33-4190-b989-d2378cef25d9@45.144.179.225:8443?security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&fp=chrome&pbk=56TVN3ryaVA8xaHa31W5AdqlN4lPUpPg1Lk3PaB2CUo&sid=230204abb43e5eef#NL-Backup
-
-vless://3dd21078-6c33-4190-b989-d2378cef25d9@155.212.222.59:8443?security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&fp=chrome&pbk=Po16Q0W-9hPoPHu2lkZpaA3t9Sc3to4prYBbP1m6wRw&sid=d33262017e0232#SE-Stockholm
-
-vless://3dd21078-6c33-4190-b989-d2378cef25d9@159.194.217.36:8443?security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&fp=chrome&pbk=bQiRzCkHzsJM7FXnEWTG89jnhQ4WYhSkN5MCRLvKnUc&sid=e35f2b97#KZ
-
-vless://3dd21078-6c33-4190-b989-d2378cef25d9@217.16.29.124:8443?security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&fp=chrome&pbk=3llsA5kaSHxfucRLPpW-nsHZC7bKZWEHCL2SIPaAmGY&sid=f6c788#RU-AntiBlock
+vless://2c600948-bccf-4fc8-9bf4-0efe6b8eb132@8rxn7wdh38.main.dagservers.ru:8443?type=grpc&security=reality&pbk=5a5SfSA_kI9aOIRBE62AIKlhsfKT-798D6r5Fc8SDFE&fp=chrome&sni=s3.ru-7.storage.selcloud.ru&sid=5765efad&serviceName=4985939520178503&mode=gun#⚡️⚡️DagestanVpn⬅️#1
