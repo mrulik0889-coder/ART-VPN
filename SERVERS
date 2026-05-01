@@ -1,44 +1,9 @@
-vless://dd2960ba-7b71-4f18-906b-f4f4c79780f0@b1.raketa-balance.com:443
-?encryption=none
-&security=reality
-&sni=b1.raketa-balance.com
-&fp=chrome
-&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY
-&sid=6c6082a2223c1d03
-&type=tcp
-&flow=xtls-rprx-vision
-#🇳🇱 Основной
+vless://dd2960ba-7b71-4f18-906b-f4f4c79780f0@b1.raketa-balance.com:443?encryption=none&security=reality&sni=b1.raketa-balance.com&fp=chrome&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&sid=6c6082a2223c1d03&type=tcp&flow=xtls-rprx-vision#🇳🇱 Основной
 
-vless://dd2960ba-7b71-4f18-906b-f4f4c79780f0@tun.proxy1.raketa-balance.com:443
-?encryption=none
-&security=reality
-&sni=eh.vk.com
-&fp=chrome
-&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY
-&sid=6c6082a2223c1d03
-&type=tcp
-&flow=xtls-rprx-vision
-#🇳🇱 Запасной
+vless://dd2960ba-7b71-4f18-906b-f4f4c79780f0@tun.proxy1.raketa-balance.com:443?encryption=none&security=reality&sni=eh.vk.com&fp=chrome&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&sid=6c6082a2223c1d03&type=tcp&flow=xtls-rprx-vision#🇳🇱 Запасной
 
-vless://dd2960ba-7b71-4f18-906b-f4f4c79780f0@de1.raketa-balance.com:443
-?encryption=none
-&security=reality
-&sni=de1.raketa-balance.com
-&fp=chrome
-&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY
-&sid=6c6082a2223c1d03
-&type=tcp
-&flow=xtls-rprx-vision
-#🇩🇪 Германия
+vless://dd2960ba-7b71-4f18-906b-f4f4c79780f0@de1.raketa-balance.com:443?encryption=none&security=reality&sni=de1.raketa-balance.com&fp=chrome&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&sid=6c6082a2223c1d03&type=tcp&flow=xtls-rprx-vision#🇩🇪 Германия
 
-vless://dd2960ba-7b71-4f18-906b-f4f4c79780f0@tun.l1.raketa-balance.com:443
-?encryption=none
-&security=reality
-&sni=ads.x5.ru
-&fp=edge
-&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY
-&sid=6c6082a2223c1d03
-&type=tcp
-&flow=xtls-rprx-vision
-#🌐 LTE
+vless://dd2960ba-7b71-4f18-906b-f4f4c79780f0@tun.l1.raketa-balance.com:443?encryption=none&security=reality&sni=ads.x5.ru&fp=edge&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&sid=6c6082a2223c1d03&type=tcp&flow=xtls-rprx-vision#🌐 LTE
 
+vless://2a34149c-f578-4a3f-8bbb-ef51e6186339@185.255.95.247:21520?path=%2Fws&security=tls&encryption=none&alpn=h2,http/1.1&host=185.255.95.247&fp=chrome&allowinsecure=0&type=ws&sni=185.255.95.247#%40failvpn_bot+%7C+TR+%7C+VLESS
