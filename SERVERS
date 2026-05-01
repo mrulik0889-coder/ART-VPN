@@ -1,10 +1,44 @@
-vless://68525793-d987-415d-9cc7-5a55e4478b49@b1.raketa-balance.com:443?encryption=none&security=reality&type=tcp&flow=xtls-rprx-vision&sni=b1.raketa-balance.com&fp=chrome&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&sid=6c6082a2223c1d03#🇳🇱 NL Основной
+vless://dd2960ba-7b71-4f18-906b-f4f4c79780f0@b1.raketa-balance.com:443
+?encryption=none
+&security=reality
+&sni=b1.raketa-balance.com
+&fp=chrome
+&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY
+&sid=6c6082a2223c1d03
+&type=tcp
+&flow=xtls-rprx-vision
+#🇳🇱 Основной
 
-vless://68525793-d987-415d-9cc7-5a55e4478b49@tun.proxy1.raketa-balance.com:443?encryption=none&security=reality&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&fp=chrome&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&sid=6c6082a2223c1d03#🇳🇱 NL Backup
+vless://dd2960ba-7b71-4f18-906b-f4f4c79780f0@tun.proxy1.raketa-balance.com:443
+?encryption=none
+&security=reality
+&sni=eh.vk.com
+&fp=chrome
+&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY
+&sid=6c6082a2223c1d03
+&type=tcp
+&flow=xtls-rprx-vision
+#🇳🇱 Запасной
 
-vless://68525793-d987-415d-9cc7-5a55e4478b49@de1.raketa-balance.com:443?encryption=none&security=reality&type=tcp&flow=xtls-rprx-vision&sni=de1.raketa-balance.com&fp=chrome&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&sid=6c6082a2223c1d03#🇩🇪 DE
+vless://dd2960ba-7b71-4f18-906b-f4f4c79780f0@de1.raketa-balance.com:443
+?encryption=none
+&security=reality
+&sni=de1.raketa-balance.com
+&fp=chrome
+&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY
+&sid=6c6082a2223c1d03
+&type=tcp
+&flow=xtls-rprx-vision
+#🇩🇪 Германия
 
-vless://68525793-d987-415d-9cc7-5a55e4478b49@tun.l1.raketa-balance.com:443?encryption=none&security=reality&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=edge&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&sid=6c6082a2223c1d03#🌐 LTE обход
-
-trojan://NGwwuXDu_d4YhaRdsBhLYw@66.23.207.68:443?path=%2F&security=none&host=telegram.org&type=ws#%F0%9F%87%BA%F0%9F%87%B8+US+%40vless_vpns
+vless://dd2960ba-7b71-4f18-906b-f4f4c79780f0@tun.l1.raketa-balance.com:443
+?encryption=none
+&security=reality
+&sni=ads.x5.ru
+&fp=edge
+&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY
+&sid=6c6082a2223c1d03
+&type=tcp
+&flow=xtls-rprx-vision
+#🌐 LTE
 
