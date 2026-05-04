@@ -13,3 +13,5 @@ vless://19af52b5-9397-4ee9-be6a-863e4bf61f41@185.91.53.220:443?type=grpc&securit
 vless://19af52b5-9397-4ee9-be6a-863e4bf61f41@185.91.53.220:8443?type=grpc&security=reality&serviceName=pussys&authority=alfabank.st&pbk=Avb1qKV0Qn7ePMULTciHojfqYh-bYuq7CylL5qrxEXw&fp=chrome&sni=max.ru&sid=d6b7696b#proxy-75
 
 vless://19af52b5-9397-4ee9-be6a-863e4bf61f41@51.250.17.152:5443?type=xhttp&security=reality&host=web.max.ru&path=%2F&mode=auto&pbk=E33x4Ix45uZg-O6lZMYMyn3BeiW8iWAvKMi4kgpC0nw&fp=chrome&sni=web.max.ru&sid=05cd5e4d5c4b7161#proxy-79
+
+vless://19af52b5-9397-4ee9-be6a-863e4bf61f41@94.232.247.239:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=wikipedia.org&fp=chrome&pbk=14mbxpFBwnpp817ZLgT-6dVqsOmNPIaH7ygYcYScjGg&sid=2b4790ccbac1edb2&type=tcp#🇫🇷%20France-1
