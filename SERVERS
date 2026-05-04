@@ -1,9 +1,15 @@
-vless://dd2960ba-7b71-4f18-906b-f4f4c79780f0@b1.raketa-balance.com:443?encryption=none&security=reality&sni=b1.raketa-balance.com&fp=chrome&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&sid=6c6082a2223c1d03&type=tcp&flow=xtls-rprx-vision#🇳🇱 Основной
+vless://19af52b5-9397-4ee9-be6a-863e4bf61f41@152.53.240.59:443?type=tcp&security=reality&pbk=14mbxpFBwnpp817ZLgT-6dVqsOmNPIaH7ygYcYScjGg&fp=chrome&sni=wikipedia.org&sid=2b4790ccbac1edb2&flow=xtls-rprx-vision#USA-VLESS
 
-vless://dd2960ba-7b71-4f18-906b-f4f4c79780f0@tun.proxy1.raketa-balance.com:443?encryption=none&security=reality&sni=eh.vk.com&fp=chrome&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&sid=6c6082a2223c1d03&type=tcp&flow=xtls-rprx-vision#🇳🇱 Запасной
+vless://19af52b5-9397-4ee9-be6a-863e4bf61f41@94.232.247.239:443?type=tcp&security=reality&pbk=14mbxpFBwnpp817ZLgT-6dVqsOmNPIaH7ygYcYScjGg&fp=chrome&sni=wikipedia.org&sid=2b4790ccbac1edb2&flow=xtls-rprx-vision#FR-VLESS
 
-vless://dd2960ba-7b71-4f18-906b-f4f4c79780f0@de1.raketa-balance.com:443?encryption=none&security=reality&sni=de1.raketa-balance.com&fp=chrome&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&sid=6c6082a2223c1d03&type=tcp&flow=xtls-rprx-vision#🇩🇪 Германия
+vless://19af52b5-9397-4ee9-be6a-863e4bf61f41@5.180.46.64:443?type=tcp&security=reality&pbk=14mbxpFBwnpp817ZLgT-6dVqsOmNPIaH7ygYcYScjGg&fp=chrome&sni=wikipedia.org&sid=2b4790ccbac1edb2&flow=xtls-rprx-vision#KZ-VLESS
 
-vless://dd2960ba-7b71-4f18-906b-f4f4c79780f0@tun.l1.raketa-balance.com:443?encryption=none&security=reality&sni=ads.x5.ru&fp=edge&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&sid=6c6082a2223c1d03&type=tcp&flow=xtls-rprx-vision#🌐 LTE
+trojan://pMx6_wHT9J7rfENmdNSRkA@66.23.207.68:443?path=%2F&security=none&host=telegram.org&type=ws#%F0%9F%87%BA%F0%9F%87%B8+US+%40vless_vpns
 
-vless://2a34149c-f578-4a3f-8bbb-ef51e6186339@185.255.95.247:21520?path=%2Fws&security=tls&encryption=none&alpn=h2,http/1.1&host=185.255.95.247&fp=chrome&allowinsecure=0&type=ws&sni=185.255.95.247#%40failvpn_bot+%7C+TR+%7C+VLESS
+vless://19af52b5-9397-4ee9-be6a-863e4bf61f41@51.250.26.95:443?type=tcp&security=reality&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&fp=chrome&sni=cdp.x5.ru&sid=8ec792bfd725be8a&flow=xtls-rprx-vision#proxy-1
+
+vless://19af52b5-9397-4ee9-be6a-863e4bf61f41@185.91.53.220:443?type=grpc&security=reality&serviceName=pussys&authority=ad.mail.ru&pbk=Avb1qKV0Qn7ePMULTciHojfqYh-bYuq7CylL5qrxEXw&fp=chrome&sni=ad.mail.ru&sid=4dffcd0fbcba#proxy-74
+
+vless://19af52b5-9397-4ee9-be6a-863e4bf61f41@185.91.53.220:8443?type=grpc&security=reality&serviceName=pussys&authority=alfabank.st&pbk=Avb1qKV0Qn7ePMULTciHojfqYh-bYuq7CylL5qrxEXw&fp=chrome&sni=max.ru&sid=d6b7696b#proxy-75
+
+vless://19af52b5-9397-4ee9-be6a-863e4bf61f41@51.250.17.152:5443?type=xhttp&security=reality&host=web.max.ru&path=%2F&mode=auto&pbk=E33x4Ix45uZg-O6lZMYMyn3BeiW8iWAvKMi4kgpC0nw&fp=chrome&sni=web.max.ru&sid=05cd5e4d5c4b7161#proxy-79
