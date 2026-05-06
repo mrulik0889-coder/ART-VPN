@@ -1,15 +1,9 @@
-vless://19af52b5-9397-4ee9-be6a-863e4bf61f41@152.53.240.59:443?type=tcp&security=reality&pbk=14mbxpFBwnpp817ZLgT-6dVqsOmNPIaH7ygYcYScjGg&fp=chrome&sni=wikipedia.org&sid=2b4790ccbac1edb2&flow=xtls-rprx-vision#USA-VLESS
+vless://d4987f00-8eaa-4d5f-8dda-b644aa43d322@b1.raketa-balance.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=b1.raketa-balance.com&fp=chrome&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&sid=6c6082a2223c1d03#🇳🇱 Нидерланды ⚡️
 
-vless://19af52b5-9397-4ee9-be6a-863e4bf61f41@5.180.46.64:443?type=tcp&security=reality&pbk=14mbxpFBwnpp817ZLgT-6dVqsOmNPIaH7ygYcYScjGg&fp=chrome&sni=wikipedia.org&sid=2b4790ccbac1edb2&flow=xtls-rprx-vision#KZ-VLESS
+vless://d4987f00-8eaa-4d5f-8dda-b644aa43d322@de1.raketa-balance.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=de1.raketa-balance.com&fp=chrome&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&sid=6c6082a2223c1d03#🇩🇪 Германия ⚡️
 
-vless://19af52b5-9397-4ee9-be6a-863e4bf61f41@159.195.38.196:443?security=reality&encryption=none&pbk=14mbxpFBwnpp817ZLgT-6dVqsOmNPIaH7ygYcYScjGg&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=wikipedia.org&sid=2b4790ccbac1edb2#NL-02
+vless://d4987f00-8eaa-4d5f-8dda-b644aa43d322@tun.proxy1.raketa-balance.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=eh.vk.com&fp=chrome&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&sid=6c6082a2223c1d03#🇪🇺 Европа | через РФ ⚡️
 
-vless://19af52b5-9397-4ee9-be6a-863e4bf61f41@159.195.36.31:443?security=reality&encryption=none&pbk=14mbxpFBwnpp817ZLgT-6dVqsOmNPIaH7ygYcYScjGg&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=wikipedia.org&sid=2b4790ccbac1edb2#NL-03
+vless://d4987f00-8eaa-4d5f-8dda-b644aa43d322@tun.proxy1.raketa-balance.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=eh.vk.com&fp=chrome&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&sid=6c6082a2223c1d03#🇳🇱 Нидерланды | Запасной
 
-vless://19af52b5-9397-4ee9-be6a-863e4bf61f41@212.34.145.182:443?security=reality&encryption=none&pbk=14mbxpFBwnpp817ZLgT-6dVqsOmNPIaH7ygYcYScjGg&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=2b4790ccbac1edb2#NL2-01
-
-vless://19af52b5-9397-4ee9-be6a-863e4bf61f41@195.26.225.32:443?security=reality&encryption=none&pbk=14mbxpFBwnpp817ZLgT-6dVqsOmNPIaH7ygYcYScjGg&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=2b4790ccbac1edb2#NL2-02
-
-vless://19af52b5-9397-4ee9-be6a-863e4bf61f41@91.84.119.144:443?security=reality&encryption=none&pbk=14mbxpFBwnpp817ZLgT-6dVqsOmNPIaH7ygYcYScjGg&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=2b4790ccbac1edb2#NL2-03
-
-vless://19af52b5-9397-4ee9-be6a-863e4bf61f41@152.53.155.248:443?security=reality&encryption=none&pbk=14mbxpFBwnpp817ZLgT-6dVqsOmNPIaH7ygYcYScjGg&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=wikipedia.org&sid=2b4790ccbac1edb2#NL-01
+vless://d4987f00-8eaa-4d5f-8dda-b644aa43d322@tun.l1.raketa-balance.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=edge&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&sid=6c6082a2223c1d03#1 🇳🇱 🌐 LTE Универсальный
