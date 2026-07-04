@@ -48,6 +48,14 @@ vless://d309f0d6-3db7-4f28-963d-bd9b0d4eb980@amsterdam-blackout.nethcloud.top:44
 
 vless://d309f0d6-3db7-4f28-963d-bd9b0d4eb980@black-plnd.nethcloud.top:443?security=reality&encryption=none&pbk=hvMJSrksmZoZ_e3-ZVxEck3Abb_oRhHiG9dXT4X-Kh4&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=wikihow.com#%F0%9F%87%B5%F0%9F%87%B1+Warsaw
 
+vless://d4987f00-8eaa-4d5f-8dda-b644aa43d322@de2.raketa-balance.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=de2.raketa-balance.com&fp=firefox&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&sid=6c6082a2223c1d03&type=tcp#🇩🇪%20НОВ ГЕР%202.0
+
+vless://d4987f00-8eaa-4d5f-8dda-b644aa43d322@fl4.raketa-balance.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fl4.raketa-balance.com&fp=firefox&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&sid=6c6082a2223c1d03&type=tcp#🇫🇮%20Финляндия
+
+vless://d4987f00-8eaa-4d5f-8dda-b644aa43d322@pl1.raketa-balance.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=pl1.raketa-balance.com&fp=firefox&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&sid=6c6082a2223c1d03&type=tcp#🇵🇱%20Польша
+
+vless://d4987f00-8eaa-4d5f-8dda-b644aa43d322@sw.raketa-balance.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sw.raketa-balance.com&fp=firefox&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&sid=6c6082a2223c1d03&type=tcp#🇸🇪%20Швеция
+
 
 
 
