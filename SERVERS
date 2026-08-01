@@ -1,8 +1,4 @@
-vless://8c7fca31-bb6f-4908-88ea-9198d4721967@nlx.raketa-balance.com:2083?type=xhttp&security=reality&encryption=none&flow=&sni=nlx.raketa-balance.com&fp=qq&pbk=j8V37xe0Tk5NZuaFLl8ygSF8CRnCviGXdtZlDqlWOBk&sid=8a167a8aeb7b77d5#Нидерланды 1
-
 vless://8c7fca31-bb6f-4908-88ea-9198d4721967@de1.svc-endpoint.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=de1.svc-endpoint.com&fp=firefox&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&sid=6c6082a2223c1d03#Германия 1
-
-vless://8c7fca31-bb6f-4908-88ea-9198d4721967@nl.prx1.raketa-balance.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=rutube.ru&fp=firefox&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&sid=6c6082a2223c1d03#Нидерланды Россия
 
 vless://8c7fca31-bb6f-4908-88ea-9198d4721967@lat.raketa-balance.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=lt.raketa-balance.com&fp=firefox&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&sid=6c6082a2223c1d03#Латвия
 
@@ -10,17 +6,6 @@ hysteria2://8c7fca31-bb6f-4908-88ea-9198d4721967@de1.svc-endpoint.com:8443/?sni=
 
 hysteria2://8c7fca31-bb6f-4908-88ea-9198d4721967@nlx.raketa-balance.com:8443/?sni=nlx.raketa-balance.com#🇳🇱%20Нидерланды%20%7C%20Hysteria2
 
-vless://8c7fca31-bb6f-4908-88ea-9198d4721967@tun.l1.raketa-balance.com:443?security=reality&sni=ads.x5.ru&fp=firefox&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&sid=6c6082a2223c1d03&flow=xtls-rprx-vision&type=tcp&encryption=none#1 🇳🇱 LTE обход
-
 vless://8c7fca31-bb6f-0003-88ea-9198d4721967@tun.lte2.raketa-balance.com:443?security=reality&sni=ads.x5.ru&fp=firefox&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&sid=6c6082a2223c1d03&flow=xtls-rprx-vision&type=tcp&encryption=none#2 🇳🇱 LTE обход
 
-vless://8c7fca31-bb6f-4908-88ea-9198d4721967@lg.raketa-balance.com:443?type=grpc&serviceName=grpc-service&security=reality&pbk=bH-DV0B5BSDZ_zmMY6t4mPbpvD8ueCPBlSk1NcZXT2k&sid=dc17da9dc0cce363&sni=lg.raketa-balance.com&fp=firefox#%23%233%20🇳🇱LTE%20обход
-
 vless://8c7fca31-bb6f-4908-88ea-9198d4721967@217.16.16.11:443?security=reality&sni=rutube.ru&fp=qq&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&sid=6c6082a2223c1d03&flow=xtls-rprx-vision&type=tcp&encryption=none#4 🇳🇱 LTE обход
-
-vless://8c7fca31-bb6f-4908-88ea-9198d4721967@82.22.40.105:443?security=reality&sni=pl1.raketa-balance.com&fp=firefox&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&sid=6c6082a2223c1d03&type=tcp&flow=xtls-rprx-vision#🇵🇱 Польша
-
-vless://8c7fca31-bb6f-4908-88ea-9198d4721967@31.22.91.229:443?security=reality&sni=swe.raketa-balance.com&fp=firefox&pbk=Q8SjY3b6H8hnsg2TVIgNpnoQ2zjOacm727EJkEIPSkg&sid=6c6082a2223c1d03&type=tcp&flow=xtls-rprx-vision#🇸🇪 Швеция
-
-vless://8c7fca31-bb6f-4908-88ea-9198d4721967@45.12.70.131:443?security=reality&sni=fl4.raketa-balance.com&fp=firefox&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&sid=6c6082a2223c1d03&type=tcp&flow=xtls-rprx-vision#🇫🇮 Финляндия
-
