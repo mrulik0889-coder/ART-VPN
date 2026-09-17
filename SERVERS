@@ -55,5 +55,7 @@ vless://8c7fca31-bb6f-4908-88ea-9198d4721967@149.86.227.16:443?encryption=none&f
 
 vless://8c7fca31-bb6f-4908-88ea-9198d4721967@87.228.101.184:443?encryption=none&security=reality&sni=ads.x5.ru&fp=firefox&pbk=EqoBhFbuO605d09fK5nbwLsMeybnbAjikSfYlqnlKDY&sid=b9375f0fa99f07b0&type=grpc&authority=ads.x5.ru#%234%20🇳🇱LTE%20Обход%20все%20операторы
 
+vless://8c7fca31-bb6f-4908-88ea-9198d4721967@87.228.101.184:443?type=grpc&security=reality&pbk=EqoBhFbuO605d09fK5nbwLsMeybnbAjikSfYlqnlKDY&fp=firefox&sni=ads.x5.ru&sid=b9375f0fa99f07b0&encryption=none&serviceName=#1%20🇳🇱LTE%20Обход%20все%20операторы
+
 
 
