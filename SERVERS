@@ -34,11 +34,11 @@ vless://8c7fca31-bb6f-4908-88ea-9198d4721967@13.143.176.192:443?encryption=none&
 
 vless://8c7fca31-bb6f-4908-88ea-9198d4721967@144.31.4.162:443?encryption=none&security=reality&sni=utukij.ultra-page.com&fp=firefox&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&sid=6c6082a2223c1d03&type=tcp&flow=xtls-rprx-vision#PL-1
 
-vless://8c7fca31-bb6f-4908-88ea-9198d4721967@87.228.101.184:22443?encryption=none&security=tls&sni=svc-endpoint.com&fp=firefox&alpn=http%2F1.1&type=tcp#LTE-NL-1
+vless://8c7fca31-bb6f-4908-88ea-9198d4721967@87.228.101.184:22443?encryption=none&security=tls&sni=svc-endpoint.com&fp=firefox&alpn=http%2F1.1&type=tcp#ОБХОД-NL-1
 
-vless://8c7fca31-bb6f-4908-88ea-9198d4721967@87.228.101.153:443?encryption=none&security=reality&sni=ads.x5.ru&fp=firefox&pbk=EqoBhFbuO605d09fK5nbwLsMeybnbAjikSfYlqnlKDY&sid=b9375f0fa99f07b0&type=grpc#LTE-DE-2
+vless://8c7fca31-bb6f-4908-88ea-9198d4721967@87.228.101.153:443?encryption=none&security=reality&sni=ads.x5.ru&fp=firefox&pbk=EqoBhFbuO605d09fK5nbwLsMeybnbAjikSfYlqnlKDY&sid=b9375f0fa99f07b0&type=grpc#ОБХОД-DE-2
 
-vless://8c7fca31-bb6f-4908-88ea-9198d4721967@87.228.101.83:443?encryption=none&security=reality&sni=ads.x5.ru&fp=firefox&pbk=EqoBhFbuO605d09fK5nbwLsMeybnbAjikSfYlqnlKDY&sid=b9375f0fa99f07b0&type=grpc#LTE-FI-3
+vless://8c7fca31-bb6f-4908-88ea-9198d4721967@87.228.101.83:443?encryption=none&security=reality&sni=ads.x5.ru&fp=firefox&pbk=EqoBhFbuO605d09fK5nbwLsMeybnbAjikSfYlqnlKDY&sid=b9375f0fa99f07b0&type=grpc#ОБХОД-FI-3
 
 
 
