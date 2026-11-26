@@ -51,17 +51,17 @@ vless://8c7fca31-bb6f-4908-88ea-9198d4721967@83.243.86.138:443?encryption=none&f
 
 vless://8c7fca31-bb6f-4908-88ea-9198d4721967@83.243.86.140:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=f69mc4.ultra-page.com&fp=firefox&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&sid=6c6082a2223c1d03&type=tcp#FR-1-2
 
-vless://8c7fca31-bb6f-4908-88ea-9198d4721967@87.228.101.153:443?encryption=none&security=reality&sni=ads.x5.ru&fp=firefox&pbk=EqoBhFbuO605d09fK5nbwLsMeybnbAjikSfYlqnlKDY&sid=b9375f0fa99f07b0&type=grpc#LTE-DE-1
+vless://8c7fca31-bb6f-4908-88ea-9198d4721967@87.228.101.153:443?encryption=none&security=reality&sni=ads.x5.ru&fp=firefox&pbk=EqoBhFbuO605d09fK5nbwLsMeybnbAjikSfYlqnlKDY&sid=b9375f0fa99f07b0&type=grpc#ОБХОД-DE-1
 
-vless://8c7fca31-bb6f-4908-88ea-9198d4721967@87.228.101.83:443?encryption=none&security=reality&sni=ads.x5.ru&fp=firefox&pbk=EqoBhFbuO605d09fK5nbwLsMeybnbAjikSfYlqnlKDY&sid=b9375f0fa99f07b0&type=grpc#LTE-FI-2
+vless://8c7fca31-bb6f-4908-88ea-9198d4721967@87.228.101.83:443?encryption=none&security=reality&sni=ads.x5.ru&fp=firefox&pbk=EqoBhFbuO605d09fK5nbwLsMeybnbAjikSfYlqnlKDY&sid=b9375f0fa99f07b0&type=grpc#ОБХОД-FI-2
 
-vless://8c7fca31-bb6f-4908-88ea-9198d4721967@87.228.101.166:443?encryption=none&security=reality&sni=ads.x5.ru&fp=firefox&pbk=EqoBhFbuO605d09fK5nbwLsMeybnbAjikSfYlqnlKDY&sid=b9375f0fa99f07b0&type=grpc#LTE-DE-3
+vless://8c7fca31-bb6f-4908-88ea-9198d4721967@87.228.101.166:443?encryption=none&security=reality&sni=ads.x5.ru&fp=firefox&pbk=EqoBhFbuO605d09fK5nbwLsMeybnbAjikSfYlqnlKDY&sid=b9375f0fa99f07b0&type=grpc#ОБХОД-DE-3
 
-vless://8c7fca31-bb6f-4908-88ea-9198d4721967@87.228.101.184:22443?encryption=none&security=tls&sni=svc-endpoint.com&fp=firefox&alpn=http%2F1.1&type=tcp#LTE-DE-5
+vless://8c7fca31-bb6f-4908-88ea-9198d4721967@87.228.101.184:22443?encryption=none&security=tls&sni=svc-endpoint.com&fp=firefox&alpn=http%2F1.1&type=tcp#ОБХОД-DE-5
 
-hysteria2://8c7fca31-bb6f-4908-88ea-9198d4721967@87.228.101.153:443/?sni=univideo.svc-endpoint.com#LTE-DE-2
+hysteria2://8c7fca31-bb6f-4908-88ea-9198d4721967@87.228.101.153:443/?sni=univideo.svc-endpoint.com#ОБХОД-DE-2
 
-hysteria2://8c7fca31-bb6f-4908-88ea-9198d4721967@87.228.101.166:443/?sni=univideo.svc-endpoint.com#LTE-LV-3
+hysteria2://8c7fca31-bb6f-4908-88ea-9198d4721967@87.228.101.166:443/?sni=univideo.svc-endpoint.com#ОБХОД-LV-3
 
-hysteria2://8c7fca31-bb6f-4908-88ea-9198d4721967@87.228.101.83:443/?sni=univideo.svc-endpoint.com#LTE-NL-4
+hysteria2://8c7fca31-bb6f-4908-88ea-9198d4721967@87.228.101.83:443/?sni=univideo.svc-endpoint.com#ОБХОД-NL-4
 
